@@ -1,0 +1,2 @@
+# An-Intelligent-Real-Time-Financial-Fraud-Detection-System-Using-Machine-Learning-
+An intelligent real-time financial fraud detection system using Machine Learning, Deep Learning, and Explainable AI (SHAP). The project applies feature engineering, ensemble learning, anomaly detection, and hybrid modelling on the PaySim dataset to accurately detect fraudulent transactions while improving transparency and reducing false positives.
